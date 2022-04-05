@@ -1,0 +1,3 @@
+Saber qual a porcentagem desteas ataques foram fatais.
+	E qual as datas mais comuns
+
